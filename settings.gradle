@@ -1,2 +1,3 @@
 rootProject.name = 'springboot-following-freelac'
+include 'scripts'
 
